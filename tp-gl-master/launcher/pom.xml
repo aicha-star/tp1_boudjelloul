@@ -29,6 +29,8 @@
       <scope>test</scope>
     </dependency>
     
+    
+    
     <!-- ICI NOUS DEFINIRONS LA DEPENDANCE VERS LE MODULE LOOKUP -->
     <dependency>
       <groupId>org.emp.gl</groupId>
